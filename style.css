@@ -1,0 +1,16 @@
+body{
+    background-color: #96bd94;
+    font-family: Helvetica;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+ul{
+    background-color: #486e4d;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+}
